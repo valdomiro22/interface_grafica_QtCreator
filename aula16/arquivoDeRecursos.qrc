@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icones">
+        <file>icones/26_97247.png</file>
+        <file>icones/Computer_PC_system_9462.png</file>
+        <file>icones/system_applications_address_book_13034.png</file>
+        <file>icones/system_file_manager_16954.png</file>
+        <file>icones/systempreferences_delsistema_12219.png</file>
+        <file>icones/system-windows_26863.png</file>
+    </qresource>
+</RCC>
